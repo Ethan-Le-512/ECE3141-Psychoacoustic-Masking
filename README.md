@@ -2,7 +2,7 @@
 
 A simplified psychoacoustic audio compression system built for ECE3141 (Information & Networks) at Monash University. Inspired by the perceptual coding ideas behind MP3.
 
-**Authors:** Gia Le (36378321) and Hadar Flenner (34976779)
+**Authors:** Gia Le  and Hadar Flenner 
 
 ---
 
